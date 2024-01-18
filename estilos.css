@@ -1,0 +1,18 @@
+[class$=borde-ancho] {
+	border: 10px;
+	border-style: solid;
+	color: red;
+
+}
+
+p[class~="texto-inicio"]
+{
+	text-align: center;
+	color: #EA7218;
+
+}
+
+img[src^="uno"]
+{
+	border-width: 500px;
+}
